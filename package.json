@@ -1,0 +1,27 @@
+{
+  "name": "Gats-Remake-Server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitrogem35/Gats-Remake-Server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nitrogem35/Gats-Remake-Server/issues"
+  },
+  "homepage": "https://github.com/nitrogem35/Gats-Remake-Server#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "ip": "^1.1.5",
+    "ws": "^8.0.0"
+  }
+}
